@@ -1,3 +1,5 @@
+![Liana logo](https://github.com/DuyDoan190203/Liana-Technologies/assets/124097551/fc7b8cbd-842b-4ac0-bc91-77c3b67f7c7c)
+
 ## Overview
 
 This project is the recruitment demo website for Liana Technologies, showcasing information about the company, its products, and contact details.This is just a plain HTML and CSS project to practice. However, React.js will soon be integrated into this project.
